@@ -3,6 +3,10 @@ import ArticleList from '../components/articles/ArticleList';
 import Search from '../components/articles/Search';
 
 class NewsSearchContainer extends Component {
+  state = {
+    loading = 'true',
+    articles = [],
+  }
   render() {
     return (
       <>
