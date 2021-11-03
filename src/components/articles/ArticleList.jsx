@@ -1,5 +1,15 @@
 import React from 'react';
+import Article from './Article';
 
-export default function ArticleList() {
-  return <h1>ArticleList Component</h1>;
-}
+const ArticleList = ({ articles }) => {
+  const articleList = articles.map((article) => {
+    return (
+      <li key={article.title}>
+        <Article {...article} />
+      </li>
+    );
+  });
+  return <ul>{articleList}</ul>;
+};
+
+export default ArticleList;
