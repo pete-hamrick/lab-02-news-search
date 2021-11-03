@@ -1,4 +1,5 @@
 import React from 'react';
+import PropTypes from 'prop-types';
 
 const Article = ({ author, description, title, url, urlToImage }) => (
   <article>
@@ -9,5 +10,13 @@ const Article = ({ author, description, title, url, urlToImage }) => (
     <a href={url}>Read The Article</a>
   </article>
 );
+
+Article.propTypes = {
+  author: PropTypes.string.isRequired,
+  description: PropTypes.string.isRequired,
+  title: PropTypes.string.isRequired,
+  url: PropTypes.string.isRequired,
+  urlToImage: PropTypes.string.isRequired,
+};
 
 export default Article;
