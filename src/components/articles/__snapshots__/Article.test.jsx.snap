@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Article Component Displays an article 1`] = `
+<DocumentFragment>
+  <article>
+    <h2>
+      The Article Title
+    </h2>
+    <img
+      alt="The Article Title"
+      src="https://article.com/article.jpeg"
+      style="height: 200px;"
+    />
+    <h4>
+      Reporter Jones
+    </h4>
+    <p>
+      The article summary
+    </p>
+    <a
+      href="https://article.com/article"
+    >
+      Read The Article
+    </a>
+  </article>
+</DocumentFragment>
+`;
