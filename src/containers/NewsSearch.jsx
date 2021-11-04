@@ -8,6 +8,7 @@ class NewsSearchContainer extends Component {
   state = {
     loading: 'true',
     articles: [],
+    searchInput: '',
   };
 
   async componentDidMount() {
