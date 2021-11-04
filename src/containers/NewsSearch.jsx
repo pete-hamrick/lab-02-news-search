@@ -8,15 +8,27 @@ class NewsSearchContainer extends Component {
   state = {
     loading: 'true',
     articles: [],
-    searchInput: '',
+    searchInput: 'United States',
   };
 
   async componentDidMount() {
-    const articles = await fetchArticles();
+    const articles = await fetchArticles(this.state.searchInput);
     this.setState({ articles, loading: false });
   }
+
+  handleSearchInput = (event) => {
+    this.setState({ searchInput: event.target.value });
+  };
+
+  handleSubmit = async (event) => {
+    event.preventDefault();
+    this.setState({ loading: true });
+    const articles = await fetchArticles(this.state.searchInput);
+    this.setState({ articles, loading: false });
+  };
+
   render() {
-    const { loading, articles } = this.state;
+    const { loading, articles, searchInput } = this.state;
 
     return (
       <>
@@ -24,7 +36,11 @@ class NewsSearchContainer extends Component {
           <h1>Loading...</h1>
         ) : (
           <>
-            <Search />
+            <Search
+              searchInput={searchInput}
+              onSearchInput={this.handleSearchInput}
+              onSubmit={this.handleSubmit}
+            />
             <ArticleList articles={articles} />
           </>
         )}
