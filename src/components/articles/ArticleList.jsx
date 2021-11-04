@@ -9,7 +9,7 @@ const ArticleList = ({ articles }) => {
       </li>
     );
   });
-  return <ul>{articleList}</ul>;
+  return <ul aria-label="articles">{articleList}</ul>;
 };
 
 export default ArticleList;
