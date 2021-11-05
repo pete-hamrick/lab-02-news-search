@@ -4,7 +4,7 @@ import { render, screen, waitFor } from '@testing-library/react';
 import userEvent from '@testing-library/user-event';
 
 describe('Shows News Articles', () => {
-  xit('should display a list of articles from the news api', async () => {
+  it('should display a list of articles from the news api', async () => {
     render(<NewsSearchContainer />);
     screen.getByText('Loading...');
 
@@ -22,8 +22,8 @@ describe('Shows News Articles', () => {
 
     return waitFor(() => {
       const articles = screen.getAllByText('strike', { exact: false });
-    });
 
-    expect(articles.toHaveLength(20));
+      expect(articles).toHaveLength(20);
+    });
   });
 });

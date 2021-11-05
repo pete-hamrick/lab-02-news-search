@@ -1,0 +1,460 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Shows News Articles should display a list of articles from the news api 1`] = `
+<ul
+  aria-label="articles"
+>
+  <li>
+    <article>
+      <h2>
+        U.S. Rallies to Beat Costa Rica in World Cup Qualifier
+      </h2>
+      <img
+        alt="U.S. Rallies to Beat Costa Rica in World Cup Qualifier"
+        src="https://static01.nyt.com/images/2021/10/14/sports/14soccer-usmnt-print/13soccer-usmnt2-facebookJumbo.jpg"
+        style="height: 200px;"
+      />
+      <h4>
+        Andrew Keh
+      </h4>
+      <p>
+        Sergiño Dest scored one goal and set up another as the United States regained its stride with a dominant performance in World Cup qualifying.
+      </p>
+      <a
+        href="https://www.nytimes.com/2021/10/13/sports/soccer/us-costa-rica-world-cup-qualifying.html"
+      >
+        Read The Article
+      </a>
+    </article>
+  </li>
+  <li>
+    <article>
+      <h2>
+        Biden Administration Moves to Limit Methane, a Potent Greenhouse Gas
+      </h2>
+      <img
+        alt="Biden Administration Moves to Limit Methane, a Potent Greenhouse Gas"
+        src="https://static01.nyt.com/images/2021/11/01/climate/00cli-methane1/00cli-methane1-facebookJumbo.jpg"
+        style="height: 200px;"
+      />
+      <h4 />
+      <p>
+        A new rule will be announced at a U.N. summit where the United States is facing skepticism about its commitment to climate change, aides said.
+      </p>
+      <a
+        href="https://www.nytimes.com/2021/11/02/climate/biden-methane-climate.html"
+      >
+        Read The Article
+      </a>
+    </article>
+  </li>
+  <li>
+    <article>
+      <h2>
+        Border With Canada to Open, Businesses 'Could Not Be Happier'
+      </h2>
+      <img
+        alt="Border With Canada to Open, Businesses 'Could Not Be Happier'"
+        src="https://static01.nyt.com/images/2021/10/13/nyregion/13nyvirus-border/13nyvirus-border-facebookJumbo.jpg"
+        style="height: 200px;"
+      />
+      <h4>
+        Jesse McKinley
+      </h4>
+      <p>
+        Businesses along New York State’s northern border were celebrating the news that fully vaccinated Canadians would soon be allowed into the United States again.
+      </p>
+      <a
+        href="https://www.nytimes.com/2021/10/14/nyregion/us-canada-border.html"
+      >
+        Read The Article
+      </a>
+    </article>
+  </li>
+  <li>
+    <article>
+      <h2>
+        Neal Sher, U.S. Government’s Leading Nazi Hunter, Dies at 74
+      </h2>
+      <img
+        alt="Neal Sher, U.S. Government’s Leading Nazi Hunter, Dies at 74"
+        src="https://static01.nyt.com/images/2021/10/08/obituaries/06sher-print1/06sher-facebookJumbo.jpg"
+        style="height: 200px;"
+      />
+      <h4>
+        Richard Sandomir
+      </h4>
+      <p>
+        He pursued former Nazis who had gotten into the United States illegally and become citizens. One target was John Demjanjuk, accused of being “Ivan the Terrible.”
+      </p>
+      <a
+        href="https://www.nytimes.com/2021/10/07/us/neal-sher-dead.html"
+      >
+        Read The Article
+      </a>
+    </article>
+  </li>
+  <li>
+    <article>
+      <h2>
+        USMNT 2, Jamaica 0: Ricardo Pepi Scores Twice
+      </h2>
+      <img
+        alt="USMNT 2, Jamaica 0: Ricardo Pepi Scores Twice"
+        src="https://static01.nyt.com/images/2021/10/07/sports/07usmnt-newtop/07usmnt-newtop-facebookJumbo.jpg"
+        style="height: 200px;"
+      />
+      <h4>
+        Andrew Keh
+      </h4>
+      <p>
+        The teenage forward Ricardo Pepi scored two goals to power the United States to its second straight win in World Cup qualifying.
+      </p>
+      <a
+        href="https://www.nytimes.com/2021/10/07/sports/soccer/us-jamaica-world-cup.html"
+      >
+        Read The Article
+      </a>
+    </article>
+  </li>
+  <li>
+    <article>
+      <h2>
+        The Rose Queen of Texas
+      </h2>
+      <img
+        alt="The Rose Queen of Texas"
+        src="https://static01.nyt.com/images/2021/10/29/fashion/00TEXASROSEQUEENS1/00TEXASROSEQUEENS1-facebookJumbo-v2.jpg"
+        style="height: 200px;"
+      />
+      <h4>
+        Alex Schechter
+      </h4>
+      <p>
+        In the rose capital of the United States, a tradition wrenched off track by the pandemic is back and in full bloom.
+      </p>
+      <a
+        href="https://www.nytimes.com/2021/11/02/style/texas-rose-queen.html"
+      >
+        Read The Article
+      </a>
+    </article>
+  </li>
+  <li>
+    <article>
+      <h2>
+        US great Lloyd ends international career with 6-0 win over South Korea
+      </h2>
+      <img
+        alt="US great Lloyd ends international career with 6-0 win over South Korea"
+        src="https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/368B/production/_121236931_cl_reu.jpg"
+        style="height: 200px;"
+      />
+      <h4 />
+      <p>
+        Two-time World Cup winner Carli Lloyd ends her international career helping the United States thrash South Korea 6-0.
+      </p>
+      <a
+        href="https://www.bbc.co.uk/sport/football/59065549"
+      >
+        Read The Article
+      </a>
+    </article>
+  </li>
+  <li>
+    <article>
+      <h2>
+        Vaccinated Travelers From Abroad Can Enter U.S. on Nov. 8.
+      </h2>
+      <img
+        alt="Vaccinated Travelers From Abroad Can Enter U.S. on Nov. 8."
+        src="https://static01.nyt.com/images/2021/10/15/us/15virus-briefing-WHtravel-1/merlin_193645275_37007bb6-4497-467d-92d1-019b9f509019-facebookJumbo.jpg"
+        style="height: 200px;"
+      />
+      <h4>
+        Zolan Kanno-Youngs
+      </h4>
+      <p>
+        The date helps clarify the end to restrictions that had walled off tourists and relatives seeking to visit their families in the United States.
+      </p>
+      <a
+        href="https://www.nytimes.com/2021/10/15/us/politics/vaccine-mandate-travel-us.html"
+      >
+        Read The Article
+      </a>
+    </article>
+  </li>
+  <li>
+    <article>
+      <h2>
+        China Could Have 1,000 Nuclear Warheads by 2030, Pentagon Says
+      </h2>
+      <img
+        alt="China Could Have 1,000 Nuclear Warheads by 2030, Pentagon Says"
+        src="https://static01.nyt.com/images/2021/11/03/us/politics/03DC-military-china/03DC-military-china-facebookJumbo.jpg"
+        style="height: 200px;"
+      />
+      <h4>
+        Helene Cooper
+      </h4>
+      <p>
+        Gen. Mark A. Milley, chairman of the Joint Chiefs of Staff, called Beijing the “No. 1” nation-state military challenger to the United States.
+      </p>
+      <a
+        href="https://www.nytimes.com/2021/11/03/us/politics/china-military-nuclear.html"
+      >
+        Read The Article
+      </a>
+    </article>
+  </li>
+  <li>
+    <article>
+      <h2>
+        New Zealand Aims to Vaccinate Up to 350,000 People in a Single Day
+      </h2>
+      <img
+        alt="New Zealand Aims to Vaccinate Up to 350,000 People in a Single Day"
+        src="https://static01.nyt.com/images/2021/10/06/world/06virus-briefing-nz-vaccines/06virus-briefing-nz-vaccines-facebookJumbo.jpg"
+        style="height: 200px;"
+      />
+      <h4>
+        The New York Times
+      </h4>
+      <p>
+        The inoculation effort, on Oct. 16, will be the country’s largest to date. Rapid at-home Covid-19 testing is about to become much more widely available in the United States, the F.D.A. says.
+      </p>
+      <a
+        href="https://www.nytimes.com/live/2021/10/06/world/covid-delta-variant-vaccine"
+      >
+        Read The Article
+      </a>
+    </article>
+  </li>
+  <li>
+    <article>
+      <h2>
+        A 'triple play' of weather hazards will unfold this week across the US
+      </h2>
+      <img
+        alt="A 'triple play' of weather hazards will unfold this week across the US"
+        src="https://cdn.cnn.com/cnnnext/dam/assets/211024075309-extreme-weather-cyclone-noreaster-severe-card-super-tease.jpg"
+        style="height: 200px;"
+      />
+      <h4>
+        Derek Van Dam, CNN Meteorologist
+      </h4>
+      <p>
+        It's time to stay weather aware as a barrage of threats unfolds across the United States this week, creating hazards from coast to coast.
+      </p>
+      <a
+        href="https://www.cnn.com/2021/10/24/weather/bomb-cyclone-noreaster-severe-weather/index.html"
+      >
+        Read The Article
+      </a>
+    </article>
+  </li>
+  <li>
+    <article>
+      <h2>
+        Asia-Pacific Nations Seek Early Supply of Merck’s Home Covid Pill
+      </h2>
+      <img
+        alt="Asia-Pacific Nations Seek Early Supply of Merck’s Home Covid Pill"
+        src="https://static01.nyt.com/images/2021/10/07/world/07virus-briefing-merck-asia/07virus-briefing-merck-asia-facebookJumbo.jpg"
+        style="height: 200px;"
+      />
+      <h4>
+        The New York Times
+      </h4>
+      <p>
+        The countries are following the United States in moving to buy molnupiravir, which Merck says could halve the risk of virus hospitalization and death. President Biden will speak in Chicago today about vaccine mandates.
+      </p>
+      <a
+        href="https://www.nytimes.com/live/2021/10/07/world/covid-delta-variant-vaccine"
+      >
+        Read The Article
+      </a>
+    </article>
+  </li>
+  <li>
+    <article>
+      <h2>
+        Global Leaders Pledge to End Deforestation by 2030
+      </h2>
+      <img
+        alt="Global Leaders Pledge to End Deforestation by 2030"
+        src="https://static01.nyt.com/images/2021/11/02/world/02CLIMATE-DEFOREST/02CLIMATE-DEFOREST-facebookJumbo.jpg"
+        style="height: 200px;"
+      />
+      <h4>
+        Catrin Einhorn and Chris Buckley
+      </h4>
+      <p>
+        Brazil, China and the United States are among the signatories to a declaration that seeks to preserve critical forests that can absorb carbon dioxide and slow the rise in global warming.
+      </p>
+      <a
+        href="https://www.nytimes.com/2021/11/02/climate/cop26-deforestation.html"
+      >
+        Read The Article
+      </a>
+    </article>
+  </li>
+  <li>
+    <article>
+      <h2>
+        Amazon plans to hire 150,000 temporary workers for the holidays
+      </h2>
+      <img
+        alt="Amazon plans to hire 150,000 temporary workers for the holidays"
+        src="https://cdn.cnn.com/cnnnext/dam/assets/211018123111-us-amazon-worker-1031-restricted-super-tease.jpg"
+        style="height: 200px;"
+      />
+      <h4>
+        Nathaniel Meyersohn, CNN Business
+      </h4>
+      <p>
+        Amazon plans to add 150,000 temporary workers in the United States for the holiday shopping rush, a 50% increase from the company's holiday hiring push a year ago.
+      </p>
+      <a
+        href="https://www.cnn.com/2021/10/18/business/amazon-jobs-holiday-hiring/index.html"
+      >
+        Read The Article
+      </a>
+    </article>
+  </li>
+  <li>
+    <article>
+      <h2>
+        Kurds say United States agreed to stay in Syria - Reuters
+      </h2>
+      <img
+        alt="Kurds say United States agreed to stay in Syria - Reuters"
+        src="https://www.reuters.com/resizer/dpK4qvPs0JvJzFsLvB8q-_JEE64=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/JPTIOL3JIZOVPCSLTB5U4BWQZA.jpg"
+        style="height: 200px;"
+      />
+      <h4 />
+      <p>
+        A leading Syrian Kurdish politician said on Thursday the United States will stay on in Syria to destroy Islamic State, build infrastructure and remain a player in the search for a political settlement after more than 10 years of civil war.
+      </p>
+      <a
+        href="https://www.reuters.com/world/middle-east/kurds-say-united-states-agreed-stay-syria-2021-10-07/"
+      >
+        Read The Article
+      </a>
+    </article>
+  </li>
+  <li>
+    <article>
+      <h2>
+        US to ease travel restrictions with Canada and Mexico for fully vaccinated travelers
+      </h2>
+      <img
+        alt="US to ease travel restrictions with Canada and Mexico for fully vaccinated travelers"
+        src="https://cdn.cnn.com/cnnnext/dam/assets/200705140734-01-us-canada-border-super-tease.jpg"
+        style="height: 200px;"
+      />
+      <h4>
+        Priscilla Alvarez, CNN
+      </h4>
+      <p>
+        The United States plans to ease restrictions on travel for fully vaccinated visitors from Canada and Mexico starting in early November, relaxing bans that have been in place for more than 18 months, according to senior administration officials.
+      </p>
+      <a
+        href="https://www.cnn.com/2021/10/12/politics/us-travel-restrictions-canada-mexico-fully-vaccinated/index.html"
+      >
+        Read The Article
+      </a>
+    </article>
+  </li>
+  <li>
+    <article>
+      <h2>
+        In photos: West Coast braces for a barrage of weather hazards
+      </h2>
+      <img
+        alt="In photos: West Coast braces for a barrage of weather hazards"
+        src="https://cdn.cnn.com/cnnnext/dam/assets/211024171459-03-california-storm-102421-mudslide-super-tease.jpg"
+        style="height: 200px;"
+      />
+      <h4 />
+      <p>
+        A "bomb cyclone" with hurricane-like strength and a chart-topping "atmospheric river" coincided Sunday and are forecast to continue into Monday, unleashing flooding rains, wet snow, strong winds and coastal surf across the western United States.
+      </p>
+      <a
+        href="https://www.cnn.com/2021/10/24/weather/gallery/west-coast-bomb-cyclone-atmospheric-river/index.html"
+      >
+        Read The Article
+      </a>
+    </article>
+  </li>
+  <li>
+    <article>
+      <h2>
+        Should Value Investors Buy United States Steel (X) Stock?
+      </h2>
+      <img
+        alt="Should Value Investors Buy United States Steel (X) Stock?"
+        src="https://assets.entrepreneur.com/providers/zacks/hero-image-zacks-391034.jpeg"
+        style="height: 200px;"
+      />
+      <h4>
+        Zacks Equity Research
+      </h4>
+      <p>
+        Here at Zacks, our focus is on the proven Zacks Rank system, which emphasizes earnings estimates and estimate revisions to find great stocks. Nevertheless, we are always paying attention to...
+      </p>
+      <a
+        href="http://www.zacks.com/stock/news/1810161/should-value-investors-buy-united-states-steel-x-stock?cid=CS-ENTREPRENEUR-FT-tale_of_the_tape|yseop_template_2-1810161"
+      >
+        Read The Article
+      </a>
+    </article>
+  </li>
+  <li>
+    <article>
+      <h2>
+        United States Oil Fund (USO) Hits a 52-Week High
+      </h2>
+      <img
+        alt="United States Oil Fund (USO) Hits a 52-Week High"
+        src="https://assets.entrepreneur.com/providers/zacks/hero-image-zacks-391603.jpeg"
+        style="height: 200px;"
+      />
+      <h4>
+        Sweta Jaiswal, FRM
+      </h4>
+      <p>
+        The United States Oil Fund (USO) hits a new 52-week high. Are more gains in store?
+      </p>
+      <a
+        href="http://www.zacks.com/stock/news/1811128/united-states-oil-fund-uso-hits-a-52-week-high?cid=CS-ENTREPRENEUR-FT-etf_news_and_commentary-1811128"
+      >
+        Read The Article
+      </a>
+    </article>
+  </li>
+  <li>
+    <article>
+      <h2>
+        What is Indigenous Peoples' Day?
+      </h2>
+      <img
+        alt="What is Indigenous Peoples' Day?"
+        src="https://static01.nyt.com/images/2021/10/11/us/11-INDIGENOUS-PEOPLE-01-PRINT/10indigeous-explainer-1-facebookJumbo.jpg"
+        style="height: 200px;"
+      />
+      <h4>
+        Melina Delkic
+      </h4>
+      <p>
+        Many cities and states are observing the day. Here’s some of the history behind it.
+      </p>
+      <a
+        href="https://www.nytimes.com/2021/10/11/us/indigenous-peoples-day.html"
+      >
+        Read The Article
+      </a>
+    </article>
+  </li>
+</ul>
+`;
