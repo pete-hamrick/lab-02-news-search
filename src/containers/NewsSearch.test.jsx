@@ -1,10 +1,15 @@
 import React from 'react';
 import NewsSearchContainer from './NewsSearch';
-import { render, screen, waitFor } from '@testing-library/react';
+import {
+  render,
+  screen,
+  waitFor,
+  waitForElementToBeRemoved,
+} from '@testing-library/react';
 import userEvent from '@testing-library/user-event';
 
 describe('Shows News Articles', () => {
-  xit('should display a list of articles from the news api', async () => {
+  it('should display a list of articles from the news api', async () => {
     render(<NewsSearchContainer />);
     screen.getByText('Loading...');
 
@@ -20,10 +25,12 @@ describe('Shows News Articles', () => {
 
     userEvent.click(submitButton);
 
-    return waitFor(() => {
-      const articles = screen.getAllByText('strike', { exact: false });
-    });
+    // await waitForElementToBeRemoved(screen.getByText('Loading...'));
 
-    expect(articles.toHaveLength(20));
+    await waitFor(() => {
+      const articles = screen.getAllByText('Description', { exact: false });
+
+      expect(articles).toHaveLength(3);
+    });
   });
 });

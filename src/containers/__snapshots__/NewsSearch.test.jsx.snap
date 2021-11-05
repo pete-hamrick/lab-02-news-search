@@ -1,0 +1,84 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Shows News Articles should display a list of articles from the news api 1`] = `
+<ul
+  aria-label="articles"
+>
+  <li>
+    <article>
+      <h2>
+        U.S. Rallies to Beat Costa Rica in World Cup Qualifier
+      </h2>
+      <img
+        alt="U.S. Rallies to Beat Costa Rica in World Cup Qualifier"
+        src="https://static01.nyt.com/images/2021/10/14/sports/14soccer-usmnt-print/13soccer-usmnt2-facebookJumbo.jpg"
+        style="height: 200px;"
+      />
+      <h4>
+        Andrew Keh
+      </h4>
+      <p>
+        Description
+      </p>
+      <p>
+        Sergiño Dest scored one goal and set up another as the United States regained its stride with a dominant performance in World Cup qualifying.
+      </p>
+      <a
+        href="https://www.nytimes.com/2021/10/13/sports/soccer/us-costa-rica-world-cup-qualifying.html"
+      >
+        Read The Article
+      </a>
+    </article>
+  </li>
+  <li>
+    <article>
+      <h2>
+        Biden Administration Moves to Limit Methane, a Potent Greenhouse Gas
+      </h2>
+      <img
+        alt="Biden Administration Moves to Limit Methane, a Potent Greenhouse Gas"
+        src="https://static01.nyt.com/images/2021/11/01/climate/00cli-methane1/00cli-methane1-facebookJumbo.jpg"
+        style="height: 200px;"
+      />
+      <h4 />
+      <p>
+        Description
+      </p>
+      <p>
+        A new rule will be announced at a U.N. summit where the United States is facing skepticism about its commitment to climate change, aides said.
+      </p>
+      <a
+        href="https://www.nytimes.com/2021/11/02/climate/biden-methane-climate.html"
+      >
+        Read The Article
+      </a>
+    </article>
+  </li>
+  <li>
+    <article>
+      <h2>
+        Border With Canada to Open, Businesses 'Could Not Be Happier'
+      </h2>
+      <img
+        alt="Border With Canada to Open, Businesses 'Could Not Be Happier'"
+        src="https://static01.nyt.com/images/2021/10/13/nyregion/13nyvirus-border/13nyvirus-border-facebookJumbo.jpg"
+        style="height: 200px;"
+      />
+      <h4>
+        Jesse McKinley
+      </h4>
+      <p>
+        Description
+      </p>
+      <p>
+        Businesses along New York State’s northern border were celebrating the news that fully vaccinated Canadians would soon be allowed into the United States again.
+      </p>
+      <a
+        href="https://www.nytimes.com/2021/10/14/nyregion/us-canada-border.html"
+      >
+        Read The Article
+      </a>
+    </article>
+  </li>
+</ul>
+`;
