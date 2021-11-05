@@ -13,7 +13,7 @@ class NewsSearchContainer extends Component {
 
   async componentDidMount() {
     const articles = await fetchArticles(this.state.searchInput);
-    this.setState({ articles, loading: false });
+    this.setState({ articles, loading: false, searchInput: '' });
   }
 
   handleSearchInput = (event) => {

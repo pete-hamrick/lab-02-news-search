@@ -15,6 +15,9 @@ exports[`Article Component Displays an article 1`] = `
       Reporter Jones
     </h4>
     <p>
+      Description
+    </p>
+    <p>
       The article summary
     </p>
     <a

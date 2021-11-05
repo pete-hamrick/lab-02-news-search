@@ -6,6 +6,7 @@ const Article = ({ author, description, title, url, urlToImage }) => (
     <h2>{title}</h2>
     <img src={urlToImage} alt={title} style={{ height: 200 }}></img>
     <h4>{author}</h4>
+    <p>Description</p>
     <p>{description}</p>
     <a href={url}>Read The Article</a>
   </article>
